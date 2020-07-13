@@ -2,7 +2,7 @@
 # Paulo Henrique Freire
 
   <p align="center">
-  <img src="https://github.com/Paulof53/Paulof53/blob/master/thankyoumario.gif?raw=true" width=400>
+  <img src="https://github.com/Paulof53/Paulof53/blob/master/thankyoumario%20(1).gif" width=400>
   <br><br>
 
 <samp>
