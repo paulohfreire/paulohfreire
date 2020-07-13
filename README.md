@@ -1,7 +1,9 @@
 
 # Paulo Henrique Freire
 
-[Imgur](https://i.imgur.com/DjANsld.gifv)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Paulof53/Paulof53/master/img/github.gif" width=100>
+  <br><br>
   
 
 # Get in touch:
