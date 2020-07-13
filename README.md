@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Paulof53/Paulof53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Paulo Henrique Freire
 
-Here are some ideas to get you started:
+[Imgur](https://i.imgur.com/DjANsld.gifv)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Get in touch:
+<!-- 
+[Twitter](https://twitter.com/freireopaulo)
+[Linkedin] (https://www.linkedin.com/in/phfreire)
+[E-mail] (mailto:paulo.freire53@gmail.com)
 -->
+### 
+<a href="https://twitter.com/freireopaulo">
+  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/phfreire/">
+  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
