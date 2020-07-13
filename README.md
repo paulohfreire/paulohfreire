@@ -1,10 +1,9 @@
 
 # Paulo Henrique Freire
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Paulof53/Paulof53/master/img/github.gif" width=100>
+  <p align="center">
+  <img src="https://github.com/Paulof53/Paulof53/blob/master/thankyoumario.gif?raw=true" width=400>
   <br><br>
-  
 
 # Get in touch:
 <!-- 
