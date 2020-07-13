@@ -6,7 +6,7 @@
   <br><br>
 
 <samp>
-    Hi! I'm currently a student at <a href="https://imd.ufrn.br/portal/">@IMD UFRN :school: </a> and aspiring software developer:computer:. Interested in working on frontend, and currently learning about React.  Of course, I like Programming, but I also like to play guitar and run near the beach :boy:
+    Hi! I'm currently a student at <a href="https://imd.ufrn.br/portal/">@IMD UFRN :school: </a> and aspiring software developer:computer:. Interested in working on frontend, and currently learning about React. I like Programming and I also like to play guitar and run near the beach :boy:
   </samp>
 </p>
 
