@@ -12,10 +12,10 @@
 
 
 <a href="https://github.com/paulohfreire/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfreire&layout=compact" height=195 align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfreire&layout=compact" height=195 width=400/>
 </a>
 <a href="https://github.com/paulohfreire/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulohfreire" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulohfreire" align="center" height=195 width=400/>
 </a>
 
 
