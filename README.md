@@ -1,9 +1,7 @@
 
 # Paulo Henrique Freire
 
-  <p align="center">
-  <img src="https://github.com/Paulof53/Paulof53/blob/master/thankyoumario%20(2).gif" width=400>
-  <br><br>
+
 
 <samp>
     Hi! I'm currently a student at <a href="https://imd.ufrn.br/portal/">@IMD UFRN :school: </a> and aspiring software developer:computer:. Interested in working on frontend, and currently learning about React. I like Programming and I also like to play guitar and run near the beach :boy:
