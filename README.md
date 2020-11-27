@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/paulohfreire/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfreire&layout=compact" center height=189 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfreire&layout=compact"  height=160 />
 </a> 
 
 <a href="https://github.com/paulohfreire/github-readme-stats">
