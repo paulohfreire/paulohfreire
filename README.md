@@ -10,6 +10,20 @@
   </samp>
 </p>
 
+
+<a href="https://github.com/paulohfreire/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfreire&layout=compact" height=195/>
+</a>
+<a href="https://github.com/paulohfreire/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulohfreire" />
+</a>
+
+
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+
+
+
 # Get in touch:
 <!-- 
 [Twitter](https://twitter.com/freireopaulo)
