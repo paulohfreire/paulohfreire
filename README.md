@@ -1,6 +1,5 @@
 
 ### Hello world!
-</br>
 <a href="https://twitter.com/freireopaulo">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
@@ -30,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-</br>
+<br>
 
 <a href="https://github.com/paulohfreire/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfreire&layout=compact"  height=158 />
