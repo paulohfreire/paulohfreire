@@ -18,7 +18,7 @@
     - 🌱 I'm a Front-end Developer, studying to become a Full-stack developer soon. </br>
     - :computer: From Natal/Brazil </br>
     - 🔭 Interested in working with Front end, and currently learning about ReactJS, NodeJS and Typescript. 
-    </br></br>
+    </br>
     - 🎸 I'm also a amateur musician and </br>
     - 🏃 a runner.
 
