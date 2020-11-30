@@ -19,7 +19,7 @@
      :computer: From Natal/Brazil </br>
      🔭 Interested in working with Front end, and currently learning about ReactJS, NodeJS and Typescript. 
     </br>
-     🎸 I'm also a amateur musician and </br>
+     🎸 I'm also an amateur musician and </br>
      🏃 Runner.
 
   
