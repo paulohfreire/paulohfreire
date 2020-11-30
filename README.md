@@ -20,7 +20,7 @@
      🔭 Interested in working with Front end, and currently learning about ReactJS, NodeJS and Typescript. 
     </br>
      🎸 I'm also a amateur musician and </br>
-     🏃 a runner.
+     🏃 Runner.
 
   
 </p>
