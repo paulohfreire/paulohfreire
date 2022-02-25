@@ -15,7 +15,7 @@
 
 <p>
     Hi! I'm Paulo.</br></br>
-     🌱 I'm a Full-stack Developer. </br>
+     🌱 I'm a Front end Developer. </br>
      :computer: From Natal/Brazil </br>
      🔭 Interested in working with Front end, and currently learning about ReactJS, NodeJS and Typescript. 
     </br>
