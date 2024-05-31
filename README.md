@@ -17,7 +17,7 @@
     Hi! I'm Paulo.</br></br>
      🌱 I'm a Fullstack Engineer. </br>
      :computer: From Natal/Brazil </br>
-     🔭 Interested in working with Front end, and currently learning about ReactJS, NodeJS and Typescript. 
+     🔭 Interested in working with Front end, and currently learning about ReactJS, C# and Typescript. 
     </br>
      🎸 I'm also an amateur musician and </br>
      🏃 Runner.
